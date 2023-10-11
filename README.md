@@ -1,5 +1,6 @@
 # "Noggin" Smart Hard Hat
-## Senior Design Project for Purdue University ECE47700 (Digital Systems Design)
+
+Senior Design Project for Purdue University ECE47700 (Digital Systems Design)
 
 **Final Repository:**\
 https://github.com/aprasan2000/ECE477/tree/Noggin-final
@@ -16,4 +17,4 @@ The purpose of this project is to design and develop a smart hard hat to protect
   - Results comparable to Apple Watch's heart rate monitor function
 - Configuring carbon monoxide sensor to alert the supervisor if it measures carbon monoxide over 50 ppm
 - Configuring accelerometer to send an alert if it detects a free fall
-- Designed LoRa communcicator to send alerts using the I2C pins
+- Designing LoRa communcicator to send alerts using the I2C pins
